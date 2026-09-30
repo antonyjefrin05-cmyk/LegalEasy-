@@ -1,0 +1,89 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="512"
+    height="512"
+    viewBox="0 0 512 512"
+>
+
+    <rect
+        width="512"
+        height="512"
+        rx="90"
+        fill="#0f172a"
+    />
+
+    <rect
+        x="115"
+        y="75"
+        width="235"
+        height="350"
+        rx="28"
+        fill="#f8fafc"
+    />
+
+    <polygon
+        points="275,75 350,150 275,150"
+        fill="#60a5fa"
+    />
+
+    <line
+        x1="155"
+        y1="210"
+        x2="305"
+        y2="210"
+        stroke="#0f172a"
+        stroke-width="18"
+        stroke-linecap="round"
+    />
+
+    <line
+        x1="155"
+        y1="255"
+        x2="305"
+        y2="255"
+        stroke="#0f172a"
+        stroke-width="18"
+        stroke-linecap="round"
+    />
+
+    <line
+        x1="155"
+        y1="300"
+        x2="265"
+        y2="300"
+        stroke="#0f172a"
+        stroke-width="18"
+        stroke-linecap="round"
+    />
+
+    <line
+        x1="155"
+        y1="345"
+        x2="290"
+        y2="345"
+        stroke="#0f172a"
+        stroke-width="18"
+        stroke-linecap="round"
+    />
+
+    <line
+        x1="355"
+        y1="80"
+        x2="420"
+        y2="145"
+        stroke="#fbbf24"
+        stroke-width="16"
+        stroke-linecap="round"
+    />
+
+    <line
+        x1="388"
+        y1="112"
+        x2="345"
+        y2="155"
+        stroke="#fbbf24"
+        stroke-width="10"
+        stroke-linecap="round"
+    />
+
+</svg>

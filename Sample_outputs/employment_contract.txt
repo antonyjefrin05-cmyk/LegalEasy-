@@ -1,0 +1,46 @@
+# EMPLOYMENT CONTRACT
+
+## 1. Parties
+
+Jane Doe (Employee), TechNova Inc. (Employer)
+
+## 2. Effective Date
+
+September 27, 2026
+
+## 3. Purpose
+
+This agreement records the understanding
+between the parties identified above.
+
+## 4. Terms and Conditions
+
+- Role: Software Engineer
+- Compensation: INR 1,200,000 per year
+- Confidentiality must be maintained
+- Either party may terminate with 30 days notice
+
+## 5. General Provisions
+
+The parties may amend this document only
+through a written agreement signed by
+the relevant parties.
+
+If any provision of this document is found
+to be unenforceable, the remaining
+provisions will continue to apply to the
+extent permitted by applicable law.
+
+## 6. Signatures
+
+Party 1: ______________________________
+
+Date: _________________________________
+
+Party 2: ______________________________
+
+Date: _________________________________
+
+> Drafting notice: This document was
+> generated in offline test mode and
+> is not legal advice.
